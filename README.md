@@ -23,6 +23,8 @@ This repository contains my solutions to various LeetCode Hard problems. Each pr
 | 154 | [Find Minimum in Rotated Sorted Array II](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/) | Hard | ✅ Solved |
 | 224 | [Basic Calculator](https://leetcode.com/problems/basic-calculator/) | Hard | ✅ Solved |
 | 329 | [Longest Increasing Path in a Matrix](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/) | Hard | ✅ Solved |
+| 407 | [Trapping Rain Water II](https://leetcode.com/problems/trapping-rain-water-ii/) | Hard | ✅ Solved |
+| 778 | [Swim in Rising Water](https://leetcode.com/problems/swim-in-rising-water/) | Hard | ✅ Solved |
 | 980 | [Unique Paths III](https://leetcode.com/problems/unique-paths-iii/) | Hard | ✅ Solved |
 | 992 | [Subarrays with K Different Integers](https://leetcode.com/problems/subarrays-with-k-different-integers/) | Hard | ✅ Solved |
 | 1106 | [Parsing A Boolean Expression](https://leetcode.com/problems/parsing-a-boolean-expression/) | Hard | ✅ Solved |
