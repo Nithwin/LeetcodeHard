@@ -15,6 +15,8 @@ This repository contains my solutions to various LeetCode Hard problems. Each pr
 | 42 | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) | Hard | ✅ Solved |
 | 51 | [N-Queens](https://leetcode.com/problems/n-queens/) | Hard | ✅ Solved |
 | 52 | [N-Queens II](https://leetcode.com/problems/n-queens-ii/) | Hard | ✅ Solved |
+| 57 | [Insert Interval](https://leetcode.com/problems/insert-interval/) | Medium | ✅ Solved |
+| 68 | [Text Justification](https://leetcode.com/problems/text-justification/) | Hard | ✅ Solved |
 | 76 | [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/) | Hard | ✅ Solved |
 | 84 | [Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/) | Hard | ✅ Solved |
 | 85 | [Maximal Rectangle](https://leetcode.com/problems/maximal-rectangle/) | Hard | ✅ Solved |
@@ -22,6 +24,8 @@ This repository contains my solutions to various LeetCode Hard problems. Each pr
 | 135 | [Candy](https://leetcode.com/problems/candy/) | Hard | ✅ Solved |
 | 154 | [Find Minimum in Rotated Sorted Array II](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/) | Hard | ✅ Solved |
 | 224 | [Basic Calculator](https://leetcode.com/problems/basic-calculator/) | Hard | ✅ Solved |
+| 239 | [Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/) | Hard | ✅ Solved |
+| 295 | [Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/) | Hard | ✅ Solved |
 | 329 | [Longest Increasing Path in a Matrix](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/) | Hard | ✅ Solved |
 | 407 | [Trapping Rain Water II](https://leetcode.com/problems/trapping-rain-water-ii/) | Hard | ✅ Solved |
 | 778 | [Swim in Rising Water](https://leetcode.com/problems/swim-in-rising-water/) | Hard | ✅ Solved |
@@ -29,7 +33,10 @@ This repository contains my solutions to various LeetCode Hard problems. Each pr
 | 992 | [Subarrays with K Different Integers](https://leetcode.com/problems/subarrays-with-k-different-integers/) | Hard | ✅ Solved |
 | 1106 | [Parsing A Boolean Expression](https://leetcode.com/problems/parsing-a-boolean-expression/) | Hard | ✅ Solved |
 | 1463 | [Cherry Pickup II](https://leetcode.com/problems/cherry-pickup-ii/) | Hard | ✅ Solved |
+| 1631 | [Path With Minimum Effort](https://leetcode.com/problems/path-with-minimum-effort/) | Medium | ✅ Solved |
 | 2392 | [Build a Matrix With Conditions](https://leetcode.com/problems/build-a-matrix-with-conditions/) | Hard | ✅ Solved |
+| 3314 | [Construct the Minimum Bitwise Array I](https://leetcode.com/problems/construct-the-minimum-bitwise-array-i/) | Easy | ✅ Solved |
+| 3668 | [Restore Finishing Order](https://leetcode.com/problems/restore-finishing-order/) | Medium | ✅ Solved |
 
 ---
 
